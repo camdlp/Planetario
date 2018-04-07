@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Planetario</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="tierra">Tierra</string>
+    <string name="marte">Marte</string>
+    <string name="jupiter">Júpiter</string>
+    <string name="mercurio">Mercurio</string>
+    <string name="neptuno">Neptuno</string>
+    <string name="pluton">Plutón</string>
+    <string name="saturno">Saturno</string>
+    <string name="urano">Urano</string>
+    <string name="venus">Venus</string>
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
